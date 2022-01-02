@@ -1,5 +1,5 @@
 {
-  "name": "coindex-cli-nodejs",
+  "name": "@aditya278/coindex-cli-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
