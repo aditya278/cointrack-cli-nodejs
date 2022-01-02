@@ -1,24 +1,24 @@
 {
-  "name": "@aditya278/coindex-cli-nodejs",
+  "name": "@aditya278/cointrack-cli-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
   "bin": {
-    "coindex": "./bin/index.js"
+    "cointrack": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aditya278/coindex-cli-nodejs.git"
+    "url": "git+https://github.com/aditya278/cointrack-cli-nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aditya278/coindex-cli-nodejs/issues"
+    "url": "https://github.com/aditya278/cointrack-cli-nodejs/issues"
   },
-  "homepage": "https://github.com/aditya278/coindex-cli-nodejs#readme",
+  "homepage": "https://github.com/aditya278/cointrack-cli-nodejs#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "colors": "^1.4.0",
