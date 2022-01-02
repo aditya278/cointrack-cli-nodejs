@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/aditya278/coindex-cli-nodejs/issues"
   },
-  "homepage": "https://github.com/aditya278/coindex-cli-nodejs#readme"
+  "homepage": "https://github.com/aditya278/coindex-cli-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "colors": "^1.4.0",
+    "commander": "^8.3.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^8.2.0"
+  }
 }
